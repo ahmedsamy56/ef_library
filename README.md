@@ -37,7 +37,3 @@ Some potential improvements that could be added to the system include:
 - **User Management:** Allow admins to edit or delete user accounts.
 - **Book Updates:** Provide functionality for admins to update book details.
 - **Advanced Search:** Implement a search feature for books based on different criteria (e.g., author, title, published year).
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
